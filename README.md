@@ -15,4 +15,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [0228-summary-ranges](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0228-summary-ranges) |
 <!---LeetCode Topics End-->
