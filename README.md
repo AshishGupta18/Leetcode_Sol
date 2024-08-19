@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0228-summary-ranges) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0890-lemonade-change](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0890-lemonade-change](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0890-lemonade-change) |
 ## Matrix
 |  |
 | ------- |
