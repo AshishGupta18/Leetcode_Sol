@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0012-integer-to-roman) |
+| [1240-stone-game-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1240-stone-game-ii) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0999-regions-cut-by-slashes) |
+| [1240-stone-game-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1240-stone-game-ii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0198-house-robber) |
+| [1240-stone-game-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1240-stone-game-ii) |
 ## Trie
 |  |
 | ------- |
@@ -124,4 +127,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
