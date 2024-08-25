@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
