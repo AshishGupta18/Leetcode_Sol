@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1325-path-with-maximum-probability) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -169,4 +171,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2803-modify-graph-edge-weights) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
