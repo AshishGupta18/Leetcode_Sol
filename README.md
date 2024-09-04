@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0383-ransom-note) |
+| [0906-walking-robot-simulation](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0999-regions-cut-by-slashes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0228-summary-ranges) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1325-path-with-maximum-probability) |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2132-convert-1d-array-into-2d-array) |
