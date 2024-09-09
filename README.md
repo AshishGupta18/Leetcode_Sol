@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2411-spiral-matrix-iv](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
 |  |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2411-spiral-matrix-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,10 +197,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2411-spiral-matrix-iv) |
 ## Linked List
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
