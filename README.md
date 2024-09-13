@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1435-xor-queries-of-a-subarray) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2035-count-sub-islands) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
@@ -214,5 +216,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
