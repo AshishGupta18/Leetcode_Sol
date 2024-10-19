@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
 | ------- |
