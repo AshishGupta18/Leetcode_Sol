@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0906-walking-robot-simulation](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0228-summary-ranges) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0890-lemonade-change) |
