@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Array
 |  |
 | ------- |
@@ -262,4 +264,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Sliding Window
+|  |
+| ------- |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 <!---LeetCode Topics End-->
