@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2164-two-best-non-overlapping-events](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2164-two-best-non-overlapping-events) |
 | [2411-spiral-matrix-iv](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0198-house-robber) |
 | [1240-stone-game-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1240-stone-game-ii) |
+| [2164-two-best-non-overlapping-events](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2164-two-best-non-overlapping-events) |
 ## Trie
 |  |
 | ------- |
@@ -169,11 +171,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2164-two-best-non-overlapping-events](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1325-path-with-maximum-probability) |
+| [2164-two-best-non-overlapping-events](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2164-two-best-non-overlapping-events) |
 | [2803-modify-graph-edge-weights](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2803-modify-graph-edge-weights) |
 ## Binary Tree
 |  |
@@ -206,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2164-two-best-non-overlapping-events](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2164-two-best-non-overlapping-events) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Prefix Sum
 |  |
