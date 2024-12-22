@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2164-two-best-non-overlapping-events) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2803-modify-graph-edge-weights](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2803-modify-graph-edge-weights) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Tree
 |  |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Graph
 |  |
 | ------- |
@@ -290,4 +294,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
