@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2164-two-best-non-overlapping-events) |
 | [2411-spiral-matrix-iv](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1325-path-with-maximum-probability) |
 | [2164-two-best-non-overlapping-events](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2164-two-best-non-overlapping-events) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2803-modify-graph-edge-weights](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2803-modify-graph-edge-weights) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2164-two-best-non-overlapping-events](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2164-two-best-non-overlapping-events) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Prefix Sum
 |  |
