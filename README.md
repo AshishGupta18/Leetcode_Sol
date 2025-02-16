@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1524-string-matching-in-an-array) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0046-permutations) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Two Pointers
 |  |
 | ------- |
