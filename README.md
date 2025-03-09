@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3427-special-array-ii) |
+| [3483-alternating-groups-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0076-minimum-window-substring](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0076-minimum-window-substring) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3483-alternating-groups-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3483-alternating-groups-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
