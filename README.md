@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0046-permutations) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0035-search-insert-position) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0792-binary-search) |
