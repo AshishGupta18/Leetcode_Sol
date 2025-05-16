@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0539-minimum-time-difference) |
 | [1240-stone-game-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1477-product-of-the-last-k-numbers) |
+| [2032-largest-odd-number-in-string](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2448-count-number-of-bad-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1524-string-matching-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1524-string-matching-in-an-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0890-lemonade-change](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Matrix
 |  |
