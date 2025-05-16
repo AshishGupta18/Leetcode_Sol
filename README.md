@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0383-ransom-note) |
 | [0539-minimum-time-difference](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1078-remove-outermost-parentheses](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1078-remove-outermost-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Graph
