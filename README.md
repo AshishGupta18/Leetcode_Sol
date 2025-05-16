@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0383-ransom-note) |
 | [0539-minimum-time-difference](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0011-container-with-most-water) |
+| [0151-reverse-words-in-a-string](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0151-reverse-words-in-a-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 |  |
