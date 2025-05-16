@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0383-ransom-note) |
 | [0539-minimum-time-difference](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0920-uncommon-words-from-two-sentences) |
