@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0050-powx-n) |
 | [0539-minimum-time-difference](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0539-minimum-time-difference) |
 | [1240-stone-game-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1477-product-of-the-last-k-numbers) |
@@ -379,4 +380,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
