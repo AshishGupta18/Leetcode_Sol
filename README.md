@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0070-climbing-stairs) |
 | [0539-minimum-time-difference](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0539-minimum-time-difference) |
 | [1240-stone-game-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1477-product-of-the-last-k-numbers) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0139-word-break) |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0139-word-break) |
 ## Greedy
 |  |
