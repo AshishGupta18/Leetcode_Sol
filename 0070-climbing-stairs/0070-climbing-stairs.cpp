@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-int solve(vector<int> dp , int n){
+int solve(vector<int>& dp , int n){
 if(n == 0 || n == 1) return 1;
 
 if(dp[n]!=-1) return dp[n];
