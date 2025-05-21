@@ -1,26 +1,26 @@
 class Solution {
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> res;
-        vector<int> comb;
-        makeCombination(candidates, target, 0, comb, 0, res);
-        return res;        
+        vector<vector<int>> result;
+        vector<int> path;
+        sort(candidates.begin(), candidates.end());
+        backtrack(candidates, 0, target, path, result);
+        return result;
     }
 
 private:
-    void makeCombination(std::vector<int>& candidates, int target, int idx, vector<int>& comb, int total, vector<vector<int>>& res) {
-        if (total == target) {
-            res.push_back(comb);
+    void backtrack(const vector<int>& candidates, int start, int target, vector<int>& path, vector<vector<int>>& result) {
+        if (target == 0) {
+            result.push_back(path);
             return;
         }
-
-        if (total > target || idx >= candidates.size()) {
+        if (target < 0) {
             return;
         }
-
-        comb.push_back(candidates[idx]);
-        makeCombination(candidates, target, idx, comb, total + candidates[idx], res);
-        comb.pop_back();
-        makeCombination(candidates, target, idx + 1, comb, total, res);
-    }    
+        for (int i = start; i < candidates.size(); ++i) {
+            path.push_back(candidates[i]);
+            backtrack(candidates, i, target - candidates[i], path, result);
+            path.pop_back();
+        }
+    }
 };
