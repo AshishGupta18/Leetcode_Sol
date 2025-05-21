@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0076-minimum-window-substring) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0076-minimum-window-substring) |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0076-minimum-window-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2599-take-k-of-each-character-from-left-and-right) |
