@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0906-walking-robot-simulation](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0966-binary-subarrays-with-sum](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0906-walking-robot-simulation) |
+| [0966-binary-subarrays-with-sum](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0999-regions-cut-by-slashes) |
 | [1046-max-consecutive-ones-iii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1435-xor-queries-of-a-subarray) |
@@ -366,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AshishGupta18/Leetcode_Sol/tree/master/2599-take-k-of-each-character-from-left-and-right) |
